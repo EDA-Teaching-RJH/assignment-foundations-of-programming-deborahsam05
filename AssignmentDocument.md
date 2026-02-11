@@ -35,7 +35,7 @@ https://docs.python.org/3/tutorial/datastructures.html
 
 ```
 🔴🔴🔴 YOU MUST COMMIT EVERYTIME YOU SQUASH A BUG  🔴🔴🔴
-```
+```h 
 
 ```python
 
@@ -159,7 +159,7 @@ Full Implementation = **4 Marks**
 
 1.  `init_database()`: Returns 4 lists pre-populated with at least 5 Star Trek characters and their data.
     
-2.  `display_menu()`: Queries users full name, Prints the options and current student logged in and returns the user's choice.
+2.  `display_menu()`: Queries users full name, Prints the options and curre student logged in and returns the user's choice.
     
 3.  `add_member(names, ranks, divs, ids)`:
     
